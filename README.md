@@ -111,7 +111,7 @@ CourseSync was born out of the challenges faced by students juggling multiple pl
 
 - **[Presentation Slide](https://docs.google.com/presentation/d/1AzJrTQhHst8kZbIWvwccjE4M3x05hW7ZXn2NBkQDr6Q/edit?usp=sharing)**
 
-- **[Project Demo Video](Demo/Video/CourseSync%20-%20Demo.mp4)**
+- **[Project Demo Video](https://youtu.be/UN1NeSXnQzE)**
 
 -  Source Code:
  - - [Frontend](https://github.com/ahnayef/CourseSync-frontend.git)
