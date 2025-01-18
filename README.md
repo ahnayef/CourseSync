@@ -1,3 +1,6 @@
+![coursesync](https://socialify.git.ci/ahnayef/coursesync/image?font=Jost&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fahnayef%2FCourseSync%2Frefs%2Fheads%2Fmain%2FAssets%2FImage%2Ficon.png&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
+
+
 # CourseSync
 
 CourseSync is an Android app designed to streamline university life for students and teachers, creating a centralized hub for academic information and communication.
